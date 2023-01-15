@@ -19,5 +19,7 @@ public class car {
 		car details = new car();
 		details.getdetails();
 
+		System.out.println("Hello World");
+
 	}
 }
