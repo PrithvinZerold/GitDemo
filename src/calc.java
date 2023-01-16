@@ -15,5 +15,7 @@ public class calc {
 
 		System.out.println("Dev Branch");
 
+		System.out.println("Dev Branch by clone");
+
 	}
 }
